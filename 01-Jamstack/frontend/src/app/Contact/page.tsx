@@ -40,7 +40,7 @@ export default function Contact() {
     };
 
     fetchFeedbacks();
-  }, [success]); // Fetch feedbacks again if a new feedback is added
+  }, [success]);
 
   const handleSubmit = async (event: React.FormEvent) => {
     event.preventDefault();
