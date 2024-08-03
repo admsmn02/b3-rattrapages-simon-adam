@@ -18,6 +18,12 @@ https://b3-rattrapages-simon-adam.onrender.com/
 
 Vous n'aurez donc qu'à configurer le frontend pour faire fonctionner le projet localement.
 
+Si vous voulez accéder à l'interface Admin Strapi :
+https://b3-rattrapages-simon-adam.onrender.com/admin
+
+email : admin@gmail.com
+mot de passe : Admin1234!
+
 ### Configuration du FrontEnd
 
 Rendez-vous dans le dossier frontend avec cette commande :
@@ -53,3 +59,8 @@ npm run dev
 # ou
 yarn dev
 ```
+
+#### Présentation du projet :
+
+Projet en ligne : https://b3-rattrapages-simon-adam.vercel.app/
+Vidéo de présentation du projet : https://www.youtube.com/watch?v=vhcwLN7nKdk
